@@ -1,0 +1,1 @@
+[{"RaiderID":"2","Username":"test","Password":"defaultPass","Name":"Bronto","MainClass":"1","MainSpec":"2","OffSpec":"0","DaysRotated":"20"},{"RaiderID":"3","Username":"test","Password":"defaultPass","Name":"Bronto","MainClass":"1","MainSpec":"2","OffSpec":"0","DaysRotated":"20"}]
